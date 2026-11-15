@@ -1,0 +1,125 @@
+D:\!3t3rn41\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4l working (fixed)\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 Ob54 fixing\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED NO REC RAGE ESP\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ModeSelectionForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ShortcutForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ModeSelectionForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ShortcutForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non adb latest\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.deps.json
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\bin\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.AssemblyReference.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Form1.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Main.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ModeSelectionForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Notification.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.Properties.Resources.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.ShortcutForm.resources
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.GenerateResource.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfoInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.AssemblyInfo.cs
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\AotForms.csproj.CoreCompileInputs.cache
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\refint\Client.dll
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\Client.pdb
+D:\!3t3rn41\!nt3rn4 OB54 FIXED non-adb non-imgui.ini creation!\!nt3rn4 OB54 FIXED\!3t3rn41\AotForms\obj\x64\Release\net7.0-windows7.0\ref\Client.dll
